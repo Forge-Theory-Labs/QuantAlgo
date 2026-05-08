@@ -283,3 +283,9 @@ MIT License - See LICENSE file for details.
 ---
 
 *Note: This system demonstrates philosophical principles. Past emergence doesn't guarantee future intelligence. The universe, like markets, remains fundamentally unpredictable.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
